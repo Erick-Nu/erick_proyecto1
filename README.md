@@ -13,4 +13,5 @@ by: Erick Nuñez
 
 [Ejecucion]
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/44b9a62c-c4f1-4b35-a195-29c6bbfcad5c)
+
